@@ -19,9 +19,9 @@
             <h1 class="font-playfair">Capturing Life's Most Beautiful Moments</h1>
             <p>Professional photography services that turn your precious memories into timeless art</p>
             <div class="hero-buttons">
-                <button class="btn btn-primary-custom" onclick="scrollToSection('contact')">
+               <a href="contact.php"> <button class="btn btn-primary-custom" onclick="scrollToSection('contact')">
                     <i class="fas fa-calendar me-2"></i>Book Your Session
-                </button>
+                </button></a>
                 <button class="btn btn-outline-custom" onclick="scrollToSection('gallery')">
                     <i class="fas fa-images me-2"></i>View Gallery
                 </button>
